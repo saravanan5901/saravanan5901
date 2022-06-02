@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Saravanan
+# 👋 Hi there, I’m Saravanan R
 
 ## I'm an M.Sc Software Systems student in Psgtech
 <!-- - 👀 I’m interested in ...
