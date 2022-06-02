@@ -1,11 +1,13 @@
-- 👋 Hi, I’m Saravanan
-<!---
-- 👀 I’m interested in ...
+# 👋 Hi there, I’m Saravanan
+
+## I'm an M.Sc Software Systems student in Psgtech
+<!-- - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
-<!---
-saravanan5901/saravanan5901 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me ... -->
+### Connect with me:
+
+
+[![website](./img/linkedin.svg)](https://www.linkedin.com/in/saravananr5901)
+&nbsp;&nbsp;
+[![website](./img/instagram.svg)](https://www.instagram.com/_saravanan_ramasamy_)
